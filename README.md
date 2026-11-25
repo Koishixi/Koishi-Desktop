@@ -2,6 +2,11 @@
 
 ### 让桌面多一位温暖的 AI 小伙伴 💚
 
+<p align="center">
+  <img src="koishi-preview.png" alt="Koishi 桌宠形象" width="300">
+  <img src="koishi-preview-2.png" alt="Koishi 第二张展示图" width="300">
+</p>
+  
 **Koishi** 是一款面向 Windows 用户的 AI 桌面伴侣软件。
 
 她不仅可以陪伴在你的电脑桌面上，还可以通过连接大语言模型，实现自然语言交流，并结合知识库、记忆和可选工具功能，为你的日常电脑使用提供帮助。
